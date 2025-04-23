@@ -1,6 +1,7 @@
 [submodule "gamepad-viewer"]
 	path = gamepad-viewer
 	url = https://github.com/Ahrimdon/gamepad-viewer
+	branch = develop
 [submodule "gamepad-tester"]
 	path = gamepad-tester
 	url = https://github.com/Ahrimdon/gamepad-tester
