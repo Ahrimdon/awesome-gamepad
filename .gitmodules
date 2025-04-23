@@ -1,0 +1,9 @@
+[submodule "gamepad-viewer"]
+	path = gamepad-viewer
+	url = https://github.com/Ahrimdon/gamepad-viewer
+[submodule "gamepad-tester"]
+	path = gamepad-tester
+	url = https://github.com/Ahrimdon/gamepad-tester
+[submodule "dualshock-tools"]
+	path = dualshock-tools
+	url = https://github.com/Ahrimdon/dualshock-tools
