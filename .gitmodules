@@ -1,12 +1,9 @@
-[submodule "gamepad-viewer"]
-	path = gamepad-viewer
-	url = https://github.com/Ahrimdon/gamepad-viewer
-	branch = main
-[submodule "gamepad-tester"]
-	path = gamepad-tester
-	url = https://github.com/Ahrimdon/gamepad-tester
-	branch = main
 [submodule "dualshock-tools"]
 	path = dualshock-tools
 	url = https://github.com/Ahrimdon/dualshock-tools
-	branch = main
+[submodule "gamepad-tester"]
+	path = gamepad-tester
+	url = https://github.com/Ahrimdon/gamepad-tester
+[submodule "gamepad-viewer"]
+	path = gamepad-viewer
+	url = https://github.com/Ahrimdon/gamepad-viewer
